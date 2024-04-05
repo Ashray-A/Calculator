@@ -1,4 +1,4 @@
-# Simple Calculator
+# MathSplash
 
 A basic calculator with HTML, CSS, and JavaScript.
 
